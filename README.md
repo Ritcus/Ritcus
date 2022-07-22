@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ritcus
+- 👋 Hi, I’m @Rikki Gautam
 - 👀 I’m interested in .Net Full Stack Development 
 
 
